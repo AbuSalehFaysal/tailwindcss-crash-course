@@ -1,0 +1,23 @@
+{
+  "name": "tailwindcss-crash-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build:css": "tailwind build src/style.css -o dist/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbuSalehFaysal/tailwindcss-crash-course.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbuSalehFaysal/tailwindcss-crash-course/issues"
+  },
+  "homepage": "https://github.com/AbuSalehFaysal/tailwindcss-crash-course#readme",
+  "dependencies": {
+    "tailwindcss": "^2.2.16"
+  }
+}
